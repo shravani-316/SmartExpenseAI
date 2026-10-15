@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2026-10-15",
+    "type": "Income",
+    "category": "Salary",
+    "merchant": "Salary",
+    "amount": 1000.0,
+    "note": "",
+    "id": "8d63d21204"
+  },
+  {
+    "date": "2026-10-15",
+    "type": "Expense",
+    "category": "Bills & Utilities",
+    "merchant": "Bills & Utilities",
+    "amount": 500.0,
+    "note": "",
+    "id": "33e57dcff3"
+  },
+  {
+    "date": "2026-10-15",
+    "type": "Income",
+    "category": "Salary",
+    "merchant": "Salary",
+    "amount": 50000.0,
+    "note": "",
+    "id": "b71a8bc955"
+  },
+  {
+    "date": "2026-10-15",
+    "type": "Expense",
+    "category": "Food & Dining",
+    "merchant": "Food & Dining",
+    "amount": 100.0,
+    "note": "",
+    "id": "0bde709f30"
+  },
+  {
+    "date": "2026-10-15",
+    "type": "Expense",
+    "category": "Food & Dining",
+    "merchant": "Food & Dining",
+    "amount": 100.0,
+    "note": "",
+    "id": "36ed2f60a5"
+  },
+  {
+    "date": "2026-10-14",
+    "type": "Expense",
+    "category": "Transport",
+    "merchant": "Transport",
+    "amount": 200.0,
+    "note": "",
+    "id": "a14be8833f"
+  },
+  {
+    "date": "2026-10-16",
+    "type": "Expense",
+    "category": "Shopping",
+    "merchant": "Shopping",
+    "amount": 300.0,
+    "note": "",
+    "id": "73d3744d3f"
+  }
+]

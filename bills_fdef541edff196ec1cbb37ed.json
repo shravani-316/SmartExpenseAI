@@ -1,0 +1,18 @@
+[
+  {
+    "name": "light bill",
+    "amount": 60.0,
+    "due_date": "2026-10-23",
+    "category": "Utilities",
+    "paid": true,
+    "id": "8a9491cf17"
+  },
+  {
+    "name": "internet bill",
+    "amount": 200.0,
+    "due_date": "2026-10-17",
+    "category": "Phone / Internet",
+    "paid": false,
+    "id": "87b343707e"
+  }
+]

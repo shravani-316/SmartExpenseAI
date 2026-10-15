@@ -1,0 +1,17 @@
+{
+  "currency": "INR",
+  "budgets": {
+    "Food & Dining": 1000.0,
+    "Transport": 1000.0,
+    "Shopping": 2000.0,
+    "Bills & Utilities": 1000.0,
+    "Entertainment": 500.0,
+    "Health": 500.0,
+    "Education": 10000.0,
+    "Housing": 300.0,
+    "Travel": 1000.0,
+    "Other": 1000.0
+  },
+  "monthly_income": 0.0,
+  "name": "Shravani Anilkumar Patil"
+}
